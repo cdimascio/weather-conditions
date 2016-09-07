@@ -4,7 +4,7 @@ Handy helper that translates The Weather Company icon code to a human readable d
 
 ## Install
 
-`npm install weather-condition`
+`npm install weather-conditions`
 
 
 ## Usage

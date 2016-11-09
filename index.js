@@ -139,7 +139,7 @@ module.exports = {
   },
 
   getIconNameByIconCode: function(iconCode) {
-      var code = Number.parseInt(iconCode)
+      var code = parseInt(iconCode)
       if (code === NaN || code < 0 || code > 47) {
         return 'na';
       }
